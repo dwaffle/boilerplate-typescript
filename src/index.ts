@@ -1,7 +1,7 @@
 function helloWorld(message: string) {
-    console.log("Hello World");
+    console.log("Hello World!");
 
-    let updatedMessage = { f: 1, b: 2 };
+    const updatedMessage = { f: 1, b: 2 };
 
     return 0;
 }
